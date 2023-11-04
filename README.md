@@ -19,7 +19,7 @@
 
  ### Share your work on GitHub
 
- **git** : 
+ **git config --global username *USERNAME*** :  add your GitHub username to your Git configuration  
  **git** :  
  **git** :   
  

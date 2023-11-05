@@ -2,10 +2,10 @@
 
 ### The commands to configure GIT
 
-- ```**mkidr**``` "FOLDERNAME" : if you want to create a new folder
-- **cd** "FOLDERNAME" : to navigate to an existing folder
-- **ls** : lists elements in a folder 
-- **git init** : turn Git for a folder
+- ```mkidr```**"FOLDERNAME"** : if you want to create a new folder
+- ```cd```**FOLDERNAME"** : to navigate to an existing folder
+- ```ls``` : lists elements in a folder 
+- ```git init``` : turn Git for a folder
 
 
  ### Commands to start working 

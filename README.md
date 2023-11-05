@@ -17,7 +17,7 @@
  - ```git commit -m "your commit message"``` : to commit the change you've added with a short message describing the changes  
 
 
- ### =Share your work on GitHub
+ ### [color=#26B260] Share your work on GitHub[/color] 
 
  ```git config --global username``` **USERNAME*** :  add your GitHub username to your Git configuration  
  ```git config --global userusername``` :  you can double check what you have set in your Git config
@@ -31,7 +31,6 @@
 - ```git pull``` **REMOTENAME** **BRANCHNAME** :  pull in changes
 - ```git remotr -v``` : view remote adresses
 - ```git push``` **REMOTENAME** **BRANCH** : push changes 
-
 
 
 

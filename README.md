@@ -22,6 +22,9 @@
  **git config --global username *USERNAME*** :  add your GitHub username to your Git configuration  
  **git config --global userusername** :  you can double check what you have set in your Git config
     
+
+
+### Remote control commands
  
 
 

@@ -2,7 +2,7 @@
 
 ### The commands to configure GIT
 
-- **mkidr** "FOLDERNAME" : if you want to create a new folder
+- ```**mkidr**``` "FOLDERNAME" : if you want to create a new folder
 - **cd** "FOLDERNAME" : to navigate to an existing folder
 - **ls** : lists elements in a folder 
 - **git init** : turn Git for a folder
@@ -17,7 +17,7 @@
  - **git commit -m "your commit message"** : to commit the change you've added with a short message describing the changes  
 
 
- ### Share your work on GitHub
+ ### =Share your work on GitHub
 
  **git config --global username *USERNAME*** :  add your GitHub username to your Git configuration  
  **git config --global userusername** :  you can double check what you have set in your Git config

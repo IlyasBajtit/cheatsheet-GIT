@@ -26,5 +26,12 @@
 
 ### Remote control commands
  
+- **git**
+- **git**
+- **git**
+- **git**
+- **git**
+
+
 
 

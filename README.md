@@ -30,7 +30,7 @@
 - **git remote set-url *REMOTENAME*** ***URL*** : set a URL to a remote 
 - **git pull *REMOTENAME*** ***BRANCHNAME*** :  pull in changes
 - **git remotr -v** : view remote adresses
-- **git**
+- **git push *REMOTENAME*** ***BRANCH*** : push changes 
 
 
 

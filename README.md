@@ -26,9 +26,9 @@
 
 ### Remote control commands
  
-- ```git remote add``` **REMOTENAME** **URL*** : add remote connections
+- ```git remote add``` **REMOTENAME** **URL** : add remote connections
 - ```git remote set-url **REMOTENAME** **URL***``` : set a URL to a remote 
-- ```git pull``` **REMOTENAME** **BRANCHNAME** :  pull in changes
+- ```git pull``` REMOTENAME BRANCHNAME :  pull in changes
 - ```git remotr -v``` : view remote adresses
 - ```git push``` **REMOTENAME** **BRANCH** : push changes 
 

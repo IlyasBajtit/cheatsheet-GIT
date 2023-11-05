@@ -29,7 +29,7 @@
 - **git remote add *REMOTENAME*** ***URL*** : add remote connections
 - **git remote set-url *REMOTENAME*** ***URL*** : set a URL to a remote 
 - **git pull *REMOTENAME*** ***BRANCHNAME*** :  pull in changes
-- **git**
+- **git remotr -v** : view remote adresses
 - **git**
 
 

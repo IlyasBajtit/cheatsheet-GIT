@@ -1,4 +1,4 @@
-# Do your first stpes on **GIT**
+# Do your first steps on **GIT**
 
 ### The commands to configure GIT
 
